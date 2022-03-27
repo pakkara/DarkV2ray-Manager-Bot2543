@@ -1,6 +1,6 @@
 {    
 
-"name": "DarkV2ray-Manager-Bot",
+"name": "DarkhBot",
     "description": "A bot that can Manage your v2ray",
     "logo": "https://telegra.ph/file/a300722ddab9d8d24fc15.jpg",
     "keywords": [
@@ -10,7 +10,7 @@
         "DarkV2ray"
     ],
     "website": "https://youtech.live",
-    "repository": "https://github.com/jamsonkuruma/DarkV2ray-Manager-Bot2543",
+    "repository": "https://github.com/pakkara/DarkV2ray-Manager-Bot2543",
     "success_url": "https://t.me/YouTech_Support",
     "env": {
         "ADMINS": {
